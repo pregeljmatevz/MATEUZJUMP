@@ -19,3 +19,4 @@ In **MatevzJump**, you control a player character that must jump across platform
 - **Score Tracking**: Keep track of your progress with an on-screen score display. Challenge yourself to beat your high score.
 
 
+![image](https://github.com/pregeljmatevz/MATEUZJUMP/assets/64079472/ab2258c6-2b56-4602-a869-fc54c0d86f1a)
